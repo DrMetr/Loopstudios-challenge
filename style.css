@@ -1,5 +1,4 @@
-:root { 
-    --Black: hsl(0,0%,0%);
-    --DarkGray: hsl(0,0%,55%);
-    --VeryDarkGray: hsl(0,0%,41%);
-    }
+:root {
+    --DarkGray: hsl(0, 0%, 55%);
+    --VeryDarkGray: hsl(0, 0%, 41%);
+}
